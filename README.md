@@ -1,4 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Frameworks](https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20TensorFlow%20%7C%20Keras%20%7C%20Scikit--Learn-blueviolet)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/skyline180/Paper-In-Code)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=skyline180.Paper-In-Code)
+
+
+---
 
 # Paper-In-Code
 
