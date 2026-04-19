@@ -9,7 +9,7 @@ This directory contains a clean PyTorch implementation of the U-Net for image se
 - Skip connections: concatenate encoder features with decoder features to preserve fine details
 
 ## Usage
-```
+```python
 from models.unet.unet import UNet
 
 model = UNet(in_channels=3, num_classes=1)
@@ -26,14 +26,14 @@ The model outputs:
 ```[B, num_classes, H, W]```
 
 ## Loss Functions
-```
+```python
 import torch.nn as nn
 ```
-```
+```python
 # Binary segmentation
 criterion = nn.BCEWithLogitsLoss()
 ```
-```
+```python
 # Multi-class segmentation
 criterion = nn.CrossEntropyLoss()
 ```
