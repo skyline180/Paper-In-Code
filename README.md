@@ -22,6 +22,8 @@ This repo is intended for:
 ### Computer Vision
 - **ResNet** – *Deep Residual Learning for Image Recognition* (He et al., 2015)
 - **EfficientNet** – *Rethinking Model Scaling for Convolutional Neural Networks* (Tan & Le, 2019)
+- **DenseNet** - **
+- **U-Net** - **
 
 ### Model Compression & Optimization
 - **Knowledge Distillation** – *Distilling the Knowledge in a Neural Network* (Hinton et al., 2015)
