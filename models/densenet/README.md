@@ -7,7 +7,8 @@ This directory contains a clean PyTorch implementation of DenseNet:
 - DenseNet-201
 
 ## Usage
-```
+
+```python
 from models.densenet.densenet import densenet121
 
 model = densenet121(num_classes=10)
