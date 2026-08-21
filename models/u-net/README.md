@@ -45,3 +45,5 @@ U-Net: Convolutional Networks for Biomedical Image Segmentation.
 International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI).
 
 https://arxiv.org/abs/1505.04597
+
+**3D U-Net:** https://arxiv.org/pdf/1606.06650
